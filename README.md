@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wzhongyou/wzhongyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wang Zhongyou 👋
 
-Here are some ideas to get you started:
+**10yr search engineer · building Go-native LLM infrastructure for AI agents**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Location](https://img.shields.io/badge/📍-Beijing%2C%20China-gray?style=flat-square)](.)
+[![Email](https://img.shields.io/badge/📧-wangzhongyou.ai%40gmail.com-gray?style=flat-square)](mailto:wangzhongyou.ai@gmail.com)
+
+</div>
+
+---
+
+## 🚀 What I'm building
+
+- 🔭 Building llmgateway — a high-performance LLM gateway in Go
+- 🔭 Building graphflow — a graph engine for AI agent workflow orchestration
+
+---
+
+## 🛠 Tech stack
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logoColor=white) ![Distributed Systems](https://img.shields.io/badge/Distributed%20Systems-534AB7?style=flat-square&logoColor=white) ![LLM](https://img.shields.io/badge/LLM-1D9E75?style=flat-square&logoColor=white) ![AI Agents](https://img.shields.io/badge/AI%20Agents-D85A30?style=flat-square&logoColor=white)
+
+---
+
+## 💡 Interests
+
+`Agent Infrastructure` · `LLM Gateway` · `Graph Engine` · `Search Engine` · `Workflow Orchestration`
+
+---
+
+## 📌 Pinned projects
+
+| Project | Description | Lang |
+|---------|-------------|------|
+| [llmgateway](https://github.com/wzhongyou/llmgateway) | High-performance LLM gateway — unified API, cost analysis, auto-fallback | Go |
+| [graphflow](https://github.com/wzhongyou/graphflow) | Graph engine for AI agent workflow orchestration | Go |
+
+---
+
+<div align="center">
+<sub>Building better infrastructure for the age of AI agents.</sub>
+</div>
