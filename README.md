@@ -13,7 +13,7 @@
 
 ## 🚀 What I'm building
 
-- 🔭 Building llmgateway — a high-performance LLM gateway in Go
+- 🔭 Building llmgate — a high-performance LLM gateway in Go
 - 🔭 Building graphflow — a graph engine for AI agent workflow orchestration
 
 ---
@@ -34,7 +34,7 @@
 
 | Project | Description | Lang |
 |---------|-------------|------|
-| [llmgateway](https://github.com/wzhongyou/llmgateway) | High-performance LLM gateway — unified API, cost analysis, auto-fallback | Go |
+| [llmgate](https://github.com/wzhongyou/llmgate) | High-performance LLM gateway — unified API, cost analysis, auto-fallback | Go |
 | [graphflow](https://github.com/wzhongyou/graphflow) | Graph engine for AI agent workflow orchestration | Go |
 
 ---
