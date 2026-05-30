@@ -8,10 +8,6 @@
 
 ---
 
-![GitHub 统计](https://github-readme-stats.vercel.app/api?username=wzhongyou&show_icons=true&hide_title=true&hide=contribs)
-
----
-
 ### 📌 精选项目
 
 | 项目 | 简介 |
