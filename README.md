@@ -17,7 +17,7 @@
 | **[graphflow](https://github.com/wzhongyou/graphflow)** | Go 原生通用图执行引擎 — 面向服务编排、工作流、ETL 管道，节点+边+状态机模型，内置熔断、重试、超时、舱壁等弹性保障，单二进制部署，零外部依赖。 |
 | **[proximia](https://github.com/wzhongyou/proximia)** | 纯 Go 向量数据库 — HNSW / IVF 索引、混合检索（向量 + BM25 全文）、WAL 持久化，零外部依赖。 |
 | **[vortex](https://github.com/wzhongyou/vortex)** | C++17 轻量嵌入搜索引擎 — 高性能全文检索，FST 字典、SIMD-BP128 压缩、RCU 快照隔离，零拷贝读取。 |
-| **[kuafu](https://github.com/wzhongyou/kuafu)** | Python 工业级网络爬虫引擎 — 轻量、易扩展，支持分布式抓取与插件式反反爬策略。 |
+| **[kuafu](https://github.com/wzhongyou/kuafu)** | Kuafu（夸父）— Python 工业级网络爬虫引擎，轻量、易扩展，支持分布式抓取与插件式反反爬策略。 |
 
 ---
 
