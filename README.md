@@ -13,9 +13,8 @@ Agent Infra 工程师，用 **Go** 构建智能体基础设施。
 
 | 项目 | 简介 |
 | :--- | :--- |
-| **[baize](https://github.com/wzhongyou/baize)** | Baize（白泽）— 通用超级智能体平台，深度问答 + 自主执行复杂任务（编程、设计、研究、文档、创作）。CLI / TUI / IDE 插件 / Web Dashboard / IM Bot 多入口，访问同一个超级 Agent。 |
+| **[baize](https://github.com/wzhongyou/baize)** | Baize（白泽）— 全栈 AI 编码助手，Go 引擎 + Bubble Tea TUI + VSCode/JetBrains 插件 + Web Dashboard。多模型支持，本地运行，权限不可绕过。 |
 | **[suwen](https://github.com/wzhongyou/suwen)** | Suwen（素问）— 开源 AI 搜索引擎，混合检索 + RAG，有据可答。查询理解 → 混合检索(vortex+flux) → 排序 → LLM 生成答案+引用，全链路自建，对标 Perplexity / 秘塔。 |
-| **[cangjie](https://github.com/wzhongyou/cangjie)** | Cangjie（仓颉）— 代码智能体，自主搜索/理解/修改代码。VSCode 插件形态，混合检索（BM25 + 向量 + AST）+ Agent Loop + Diff Review，TypeScript 构建。 |
 | **[gewu](https://github.com/wzhongyou/gewu)** | Gewu（格物）— AI 阅读器浏览器插件，外文网页原文替换翻译 + Side Panel 对话问答。格物致知。TypeScript + Vite 构建，Chrome/Edge MV3。 |
 
 #### Agent Infra
